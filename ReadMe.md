@@ -7,7 +7,7 @@ Software Engineer
 I am an ICT professional with proficiency in Angular, React, JavaScript, Shopify and WordPress
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [Paul Chesa](http://https://paulchesa.netlify.app/)
+* 🖥️  See my portfolio at [Paul Chesa](https://paulchesa.netlify.app/)
 * ✉️  You can contact me at [paulchesa1@gmail.com](mailto:paulchesa1@gmail.com)
 * 🧠  I'm learning Angular in-depth concepts and Google Cloud
 * 🤝  I'm open to collaborating on Any JavaScript Projects😎
