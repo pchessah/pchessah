@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am an ICT professional with proficiency in Angular, React, JavaScript, Shopify and WordPress
+I am a Software Developer with proficiency in Angular, React, JavaScript, Shopify and WordPress
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [paulchesa1@gmail.com](mailto:paulchesa1@gmail.com)
