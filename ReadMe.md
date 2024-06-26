@@ -1,19 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Chesa
 ==================================================================================================================================
 
-Software Engineer
------------------
+### About Me
 
-I am a Software Developer with proficiency in Angular, React, JavaScript, Shopify and WordPress
+🚀 **Senior Angular Developer** with a knack for turning complex problems into elegant solutions. My expertise spans across Angular, React, JavaScript, Shopify, and WordPress.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [paulchesa1@gmail.com](mailto:paulchesa1@gmail.com)
-* 🧠  I'm learning Angular in-depth concepts and Google Cloud
-* 🤝  I'm open to collaborating on Any JavaScript Projects😎
-* ⚡  I love octopi 🐙
+🌍 **Location:** Nairobi, Kenya
+
+✉️ **Contact:** [paulchesa1@gmail.com](mailto:paulchesa1@gmail.com)
+
+🧠 **Currently Learning:** Delving deep into Angular's advanced concepts and exploring the vast potentials of Google Cloud.
+
+🤝 **Collaboration:** Eager to team up on any JavaScript projects. Let's create something amazing together! 😎
+
+⚡ **Fun Fact:** I'm fascinated by octopi 🐙—their intelligence and adaptability inspire my approach to coding.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
