@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### About Me
 
-🚀 **Senior Angular Developer** with a knack for turning complex problems into elegant solutions. My expertise spans across Angular, React, JavaScript, Shopify, and WordPress.
+🚀 **Senior Frontend Developer** with a knack for turning complex problems into elegant solutions. My expertise spans across Angular, React, JavaScript, Shopify, and WordPress.
 
 🌍 **Location:** Nairobi, Kenya
 
